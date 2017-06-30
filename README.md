@@ -11,6 +11,9 @@ machine learning and deep learning group study
 - 대상: ML/DL에 관심있는 학부/석/박사생 누구나
 
 # 진행 방식
-1. Andrew Ng교수의 Coursera 강의 공동수강(강사 초빙 시 대체)
+1. Machine Learning A-Z™: Hands-On Python & R
+https://www.udemy.com/machinelearning/learn/v4/overview
+
 2. 그룹별 자율스터디 (Tensorflow 실습 등)
+
 3. 그룹별 1주간 스터디 내용 공유 및 발제
