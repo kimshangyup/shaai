@@ -17,3 +17,6 @@ https://www.udemy.com/machinelearning/learn/v4/overview
 2. 그룹별 자율스터디 (Tensorflow 실습 등)
 
 3. 그룹별 1주간 스터디 내용 공유 및 발제
+
+# 디포짓 링크
+https://goo.gl/knB4v7
